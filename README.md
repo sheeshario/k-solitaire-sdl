@@ -1,4 +1,4 @@
-# Assignment on Mid Semester Exam Solitare with Java
+# Assignment on Mid Semester Exam Linear Data Structure
 
 This is a Group Project with 2 members.
 
